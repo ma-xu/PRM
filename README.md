@@ -4,7 +4,7 @@
 Feature Position](https://www.ijcai.org/Proceedings/2020/0111.pdf), by [Xu Ma](https://13952522076.github.io/), [Song Fu](https://www.cse.unt.edu/~song/), is a novel plug-in module for improve CNN model capability with minimal computational overheads, and further improve the performances of other high-level visual tasks, like detection.
 
 
-![PRM_module](figs/structure.pdf)
+![PRM_module](https://github.com/13952522076/PRM/blob/master/figs/structure.png)
 
 
 ## Getting Start
